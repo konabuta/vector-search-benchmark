@@ -19,5 +19,5 @@ We use the following benchmark tooks for evaluattion.
 Table
 | Benchmark Tools | Azure AI Search | Azure Database for PostgreSQL |
 | --- | --- | --- |
-| **BEIR** | ✅ Yes | ❌ No |
+| **BEIR** | ✅ Yes - [codes](./codes/beir/azure-ai-search)| ❌ No |
 | **Miracl** | ❌ No | ❌ No |
