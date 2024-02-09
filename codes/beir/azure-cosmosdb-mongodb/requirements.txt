@@ -1,0 +1,7 @@
+ipykernel
+notebook
+openai
+tenacity
+beir
+python-dotenv
+pymongo
